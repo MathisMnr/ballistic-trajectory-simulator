@@ -1,4 +1,4 @@
-# ballistic-trajectory-simulator
+### ballistic-trajectory-simulator
 # 🧠 Moteur Physique — Simulation de tir balistique
 
 > Projet académique réalisé à l’**UQAC (Université du Québec à Chicoutimi)**  
